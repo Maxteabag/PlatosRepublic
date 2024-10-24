@@ -17,7 +17,7 @@ jobs:
     # Compile the LaTeX to EPUB using Pandoc (no need to install Pandoc or TeX Live)
     - name: Convert LaTeX to EPUB
       working-directory: ./Latex/Ebook  # Change to the directory containing the .tex file
-      run: pandoc ebook.tex -o output.epub --metadata title="fucking moralist"
+      run: pandoc ebook.tex -o output.epub --metadata title="The Republic of Plato"
 
     # (Optional) Upload the generated EPUB file as an artifact
     - name: Upload EPUB artifact
