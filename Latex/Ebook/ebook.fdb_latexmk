@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1728068624.63491 "c:/GIT/fuckingmoralist/LatexOutput/ebook.tex" "ebook.pdf" "ebook" 1728068625.55283 2
+  "c:/GIT/fuckingmoralist/LatexOutput/ebook.tex" 1728068621 10680 a569b6ce7cc9515ee7211317a07a01fa ""
+  "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1728025180 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1728033980 3325955 323d1aa73bfea5910fa5698247f064fd ""
+  "c:/texlive/2024/texmf.cnf" 1728033597 713 e69b156964470283e0530f5060668171 ""
+  "ebook.aux" 1728068624 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "ebook.tex" 1728068621 10680 a569b6ce7cc9515ee7211317a07a01fa ""
+  (generated)
+  "ebook.aux"
+  "ebook.log"
+  "ebook.pdf"
+  (rewritten before read)

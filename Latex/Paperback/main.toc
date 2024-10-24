@@ -1,0 +1,17 @@
+\contentsline {chapter}{Introduction}{iii}{chapter*.2}%
+\contentsline {section}{Context}{iii}{chapter*.2}%
+\contentsline {section}{Argument}{v}{chapter*.2}%
+\contentsline {section}{Characters}{ix}{chapter*.2}%
+\contentsline {part}{I\hspace {1em}Part I}{1}{part.1}%
+\contentsline {chapter}{Book I}{3}{chapter*.3}%
+\contentsline {chapter}{Book II}{25}{chapter*.4}%
+\contentsline {chapter}{Book III}{45}{chapter*.5}%
+\contentsline {part}{II\hspace {1em}Part II}{69}{part.2}%
+\contentsline {chapter}{Book IV}{71}{chapter*.6}%
+\contentsline {chapter}{Book V}{91}{chapter*.7}%
+\contentsline {chapter}{Book VI}{115}{chapter*.8}%
+\contentsline {chapter}{Book VII}{137}{chapter*.9}%
+\contentsline {part}{III\hspace {1em}Part III}{157}{part.3}%
+\contentsline {chapter}{Book VIII}{159}{chapter*.10}%
+\contentsline {chapter}{Book IX}{179}{chapter*.11}%
+\contentsline {chapter}{Book X}{195}{chapter*.12}%

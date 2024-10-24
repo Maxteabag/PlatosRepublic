@@ -1,0 +1,49 @@
+\documentclass{book}
+\vbadness=10000
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+% Redefine the \section command to automatically be unnumbered and bold
+\usepackage{titlesec}
+\usepackage{bookmark}
+
+\titleformat{\section}[block]{\bfseries\Large}{\thesection}{1em}{}
+\titleformat{\subsection}[block]{\bfseries\normalsize}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}[block]{\bfseries\small}{\thesubsubsection}{1em}{}
+
+% Ensure sections are not numbered by default
+\setcounter{secnumdepth}{-1}
+
+% Set paragraph indentation and spacing
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{1em}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    bookmarksopen=true,
+    bookmarksnumbered=true,
+    pdftitle={Fucking moralist},
+    pdfauthor={Peter Adams},
+    pdfsubject={A definitive guide for men},
+    pdfpagemode=FullScreen,
+}
+
+\setcounter{tocdepth}{1}  % Include chapters in the TOC
+
+\begin{document}
+\begin{sloppypar}
+
+% Table of contents.
+\frontmatter
+\tableofcontents
+
+\input{../content.tex}
+\end{sloppypar}
+\end{document}

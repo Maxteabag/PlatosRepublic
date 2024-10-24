@@ -1,0 +1,25 @@
+{
+  "[latex]": {
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.suggestOnTriggerCharacters": false
+},
+  "editor.lineNumbers": "off",
+  "editor.minimap.enabled": false,
+  "editor.showActivityBar": false,
+  "breadcrumbs.enabled": false,
+           "editor.fontSize": 18,
+         "editor.lineHeight": 25,
+   "editor.fontFamily": "Arial",
+          "editor.fontWeight": "350",
+          "editor.occurrencesHighlight": "off",
+          "editor.wordWrap": "on",
+  "terminal.integrated.fontFamily": "monospace",
+// "latex-workshop.latex.outDir": "../Latex/Paperback",
+"latex-workshop.latex.rootFile.useSubFile": true,
+"latex-workshop.view.outline.numbers.enabled": false
+ }

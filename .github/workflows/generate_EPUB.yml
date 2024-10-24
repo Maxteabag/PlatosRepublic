@@ -1,0 +1,27 @@
+name: Build LaTeX to EPUB
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    container:
+      image: pandoc/latex:latest  # Official Docker image with Pandoc and LaTeX pre-installed
+
+    steps:
+    # Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Compile the LaTeX to EPUB using Pandoc (no need to install Pandoc or TeX Live)
+    - name: Convert LaTeX to EPUB
+      working-directory: ./Latex/Ebook  # Change to the directory containing the .tex file
+      run: pandoc ebook.tex -o output.epub --metadata title="fucking moralist"
+
+    # (Optional) Upload the generated EPUB file as an artifact
+    - name: Upload EPUB artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: output.epub
+        path: ./Latex/Ebook/output.epub
