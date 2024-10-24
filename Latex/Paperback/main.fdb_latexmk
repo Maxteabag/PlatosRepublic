@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729801123.92883 "c:/GIT/PlatosRepublic/Latex/Paperback/main.tex" "main.pdf" "main" 1729801126.6763 0
-  "../../Manuscript/Introduction/Argument.tex" 1729800437 14218 201fe6614e21bc7aaab9d4964ce1bab4 ""
+["pdflatex"] 1729801526.34423 "c:/GIT/PlatosRepublic/Latex/Paperback/main.tex" "main.pdf" "main" 1729801529.34973 0
+  "../../Manuscript/Introduction/Argument.tex" 1729801525 14202 29a5ca3d14fbd22d43ad41dfdb3681a7 ""
   "../../Manuscript/Introduction/Characters.tex" 1729800447 16009 ef928ae4d93e8909382cdb6a528cb690 ""
   "../../Manuscript/Introduction/Introduction.tex" 1729800424 6570 3ec469f5b59a6a1f6b37d2ddd4b82596 ""
   "../../Manuscript/Part 1/Book I.tex" 1729800465 66208 0aa6c72670a3e4e818a6d70b97cbcd8d ""
@@ -92,9 +92,9 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1728033637 5520490 7d379628d5de7a14652a9db62d1e107c ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1728033980 3325955 323d1aa73bfea5910fa5698247f064fd ""
   "c:/texlive/2024/texmf.cnf" 1728033597 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1729801126 5451 ad420e2f7864a68de260d0ba659939fc "pdflatex"
+  "main.aux" 1729801529 5451 ad420e2f7864a68de260d0ba659939fc "pdflatex"
   "main.tex" 1728118985 1205 14b3b283812d42996d9e3a7994ad8355 ""
-  "main.toc" 1729801126 892 32c7e75fe29bf391c47968a96e0ab1c9 "pdflatex"
+  "main.toc" 1729801529 892 32c7e75fe29bf391c47968a96e0ab1c9 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
